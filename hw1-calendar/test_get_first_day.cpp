@@ -1,4 +1,4 @@
-/* 林佳萱  404410062   資工二*/
+/*  404410062   資工二*/
 
 //Driver program for the function getFirstDayOfMonth.
 #include <iostream>
