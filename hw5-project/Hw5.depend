@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1497081096 source:c:\users\user\desktop\oop\hw5\bigint.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<algorithm>
+	"BigInt.h"
+
+1497080954 c:\users\user\desktop\oop\hw5\bigint.h
+	<iostream>
+	<cstring>
+	<cmath>
+	<algorithm>
+
+1497178055 source:c:\users\user\desktop\oop\hw5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Rational.h"
+	"Complex.h"
+	"BigInt.h"
+
+1497081069 c:\users\user\desktop\oop\hw5\rational.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"BigInt.h"
+
+1497080810 source:c:\users\user\desktop\oop\hw5\rational.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Rational.h"
+
+1497089288 source:c:\users\user\desktop\oop\hw5\complex.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+	"BigInt.h"
+	"Complex.h"
+	"Rational.h"
+
+1497083611 c:\users\user\desktop\oop\hw5\complex.h
+	"Rational.h"
+	"BigInt.h"
+	<stdlib.h>
+	<iostream>
+
+1496997596 source:c:\users\user\desktop\oop\hw5\test.cpp
+	<iostream>
+	"Complex.h"
+	"Rational.h"
+	"BigInt.h"
+
